@@ -1,6 +1,8 @@
 # My Portfolio - RizNexus
 
-![Portfolio Screenshot](https://i.ibb.co/.../portfolio-screenshot.png) <!-- Add your screenshot here -->
+![Portfolio Screenshot](https://i.ibb.co/5X4G29hv/Screenshot-2025-07-16-110002.png) 
+
+## [Demo Link](https://portfolio-riyas.vercel.app/)
 
 A modern, responsive portfolio website with multiple theme options and smooth animations. Built with HTML, CSS, and JavaScript.
 
