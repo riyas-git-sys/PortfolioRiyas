@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2025 [Riyas Ahamed "RizNexus"]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. **Attribution Requirement**:
+   - The above copyright notice and this permission notice shall be included in all
+     copies or substantial portions of the Software.
+   - If used as a template or inspiration for another portfolio, visible credit with 
+     a link to the original repository must be provided.
+
+2. **Restrictions**:
+   - This license does not grant rights to use any trademarked assets (logos, 
+     proprietary images) that may be included in the project.
+   - You may not claim the original work as your own.
+
+3. **No Warranty**:
+   - The Software is provided "as is", without warranty of any kind, express or
+     implied, including but not limited to the warranties of merchantability,
+     fitness for a particular purpose and noninfringement.
+
+4. **Liability**:
+   - In no event shall the authors or copyright holders be liable for any claim,
+     damages or other liability, whether in an action of contract, tort or
+     otherwise, arising from, out of or in connection with the Software or the use
+     or other dealings in the Software.
+
+---
+
+### Additional Notes for Portfolio Usage:
+
+- You are free to:
+  - Use this as a template for your personal/company portfolio
+  - Modify colors, content, and structure
+  - Deploy your modified version publicly
+
+- You should:
+  - Replace all personal information (name, projects, contact details) with your own
+  - Consider changing the visual design to make it uniquely yours
+  - Update the theme system if keeping the multi-theme functionality
+
+- You may not:
+  - Redistribute the original or modified versions as a "portfolio template" for sale
+  - Use the design for commercial projects unrelated to personal portfolio use
+
+---
+
+**Software Dependencies**:
+This license does not cover any third-party libraries used (AOS, Font Awesome, etc.), 
+which maintain their own licenses.
